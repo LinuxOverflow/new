@@ -1,3 +1,6 @@
 hello world!!
 get input from user
 something called value
+something
+
+something
